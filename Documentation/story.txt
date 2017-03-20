@@ -1,0 +1,42 @@
+The Fantastic Adventure!
+
+0;
+wake up
+examine surroundings
+check for supplies
+walk ons
+
+0-->1
+examine surroundings
+listen to sound
+learn to combat
+collect loot
+walk on
+
+1-->2
+odd totem to examine
+examine OR leave
+if examine
+	find strange engraving
+	find small knife
+leave
+
+fork in road
+	left-->a small hillock (3)
+	right-->a wooded cluster (4)
+
+s
+
+4-->5
+follow the coast
+a small dock on the coast
+examine
+	no boats in sight
+	obviously man made, there are people somewhere
+search
+	fight a fish
+leave
+
+
+	
+

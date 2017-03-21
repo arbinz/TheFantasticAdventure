@@ -10,6 +10,7 @@ walk ons
 examine surroundings
 listen to sound
 learn to combat
+	fight a bug
 collect loot
 walk on
 
@@ -25,7 +26,7 @@ fork in road
 	left-->a small hillock (3)
 	right-->a wooded cluster (4)
 
-s
+
 
 4-->5
 follow the coast
@@ -36,7 +37,3 @@ examine
 search
 	fight a fish
 leave
-
-
-	
-

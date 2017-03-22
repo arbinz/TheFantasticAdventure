@@ -8,6 +8,7 @@ walk ons
 
 0-->1
 examine surroundings
+something across river
 listen to sound
 learn to combat
 	fight a bug
